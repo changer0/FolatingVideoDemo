@@ -40,6 +40,10 @@ public class VideoInfo {
         return ret;
     }
 
+    /**
+     * 得到url信息
+     * @return
+     */
     public String getFirstUrl(){
         String ret = null;
         if (urls != null) {
