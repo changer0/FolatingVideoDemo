@@ -7,7 +7,7 @@ import android.widget.BaseAdapter;
 
 /**
  * Created by Lulu on 2016/10/22.
- * 
+ *
  */
 public class VideoListAdapter extends BaseAdapter {
     private Context mContext;
